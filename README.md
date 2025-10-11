@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @screamo-boop
 - 👀 I’m interested in network and system administration and automation
-- 🌱 I’m currently learning python
+- 🌱 Have some expirience in python development
 - 📫 How to reach me @scr34m0 (tg)
 
 
