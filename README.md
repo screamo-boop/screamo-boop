@@ -10,11 +10,11 @@
 
 ### Excelent
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,bash,debian,docker,git,gitlab,github,grafana,kubernetes,linux,nginx,postgres,powershell,prometheus,py,redis,redhat,sqlite,terraform,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,debian,docker,git,gitlab,github,grafana,kubernetes,linux,nginx,postgres,powershell,prometheus,py,redis,redhat,sqlite,terraform,ubuntu,windows&perline=7)](https://skillicons.dev)
 
 ### Well
 
-[![My Skills](https://skillicons.dev/icons?i=css,django,elasticsearch,fastapi,flask,azure,gcp,html,js,jenkins,mongodb,mysql,postman,rabbitmq,regex,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,django,elasticsearch,fastapi,flask,azure,gcp,html,js,jenkins,mongodb,mysql,postman,rabbitmq,regex&perline=5)](https://skillicons.dev)
 
 ### Currently learning
 
