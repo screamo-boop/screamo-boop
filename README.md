@@ -1,5 +1,8 @@
 # 👋 Hi, I’m screamo-boop
 
+
+[![Codewars](https://www.codewars.com/users/screamo-boop/badges/large)](https://www.codewars.com)
+
 ## About
 
 - 👀 I’m interested in network and system administration and automation
@@ -19,3 +22,4 @@
 ### Currently learning
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,kali,openstack)](https://skillicons.dev)
+
